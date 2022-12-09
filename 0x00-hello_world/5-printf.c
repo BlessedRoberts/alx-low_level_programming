@@ -1,6 +1,12 @@
 #include <stdio.h>
 
-
+/**
+ * main - entry point
+ *
+ * Description: 'Hello printf'
+ *
+ * Return: Always 0 (success)
+ */
 
 int main(void)
 
