@@ -5,7 +5,7 @@
  *
  * Return: Always 0.
  */
-int main(void)
+iint main(void)
 {
 	int count;
 	unsigned long fib1 = 0, fib2 = 1, sum;
@@ -25,4 +25,4 @@ int main(void)
 	}
 
 	return (0);
-i}
+}
