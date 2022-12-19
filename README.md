@@ -1,1 +1,1 @@
-low level progrmamin
+inters arrays strings
